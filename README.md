@@ -1,9 +1,13 @@
 ![Hey there, I'm Liad. I'm Software Engineer, looking for day-to-day challenges. Thanks for visit me profile.](https://github.com/LiadKh/LiadKh/raw/master/bio.gif)
 
 
-![Codewars](https://www.codewars.com/users/TGlhZEto/badges/large)
+[Codewars](https://www.codewars.com/users/TGlhZEto)
 
-![HTB](https://www.hackthebox.eu/badge/image/424637)
+![Codewars-Badge](https://www.codewars.com/users/TGlhZEto/badges/large)
+
+[Hack The Box](https://app.hackthebox.eu/profile/424637) 
+
+![HTB-Badge](https://www.hackthebox.eu/badge/image/424637)
 
 
 
