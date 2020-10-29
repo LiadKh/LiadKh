@@ -9,6 +9,47 @@
 
 ![HTB-Badge](https://www.hackthebox.eu/badge/image/424637)
 
+I have a little challange for you:
+
+You kown what is **TGlhZEto**?
+
+<details>
+<summary>
+Hint  
+</summary>
+ <p>
+   
+   You tried to encode this?
+</p>
+</details>
+
+___
+
+<details>
+<summary>
+Solution  
+</summary>
+ <p>
+
+### Code
+
+```python
+#!/usr/bin/python3
+import base64
+print(base64.b64decode("TGlhZEto"))
+```
+
+___
+
+### Output
+> LiadKh
 
 
-Base64(LiadKh) = TGlhZEto (You don't believe you? You can check the link [CyberChef](https://gchq.github.io/CyberChef/#recipe=To_Base64('A-Za-z0-9%2B/%3D')&input=TGlhZEto))
+You don't believe me, check this link [CyberChef](https://gchq.github.io/CyberChef/#recipe=From_Base64('A-Za-z0-9%2B/%3D',true)&input=VEdsaFpFdG8)
+
+Cheers!
+
+LiadKh
+</p>
+</details>
+
