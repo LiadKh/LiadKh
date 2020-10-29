@@ -6,7 +6,7 @@
 
 I have a little challange for you:
 
-You kown what is **TGlhZEto**?
+Do you kown what is **TGlhZEto**?
 
 <details>
 <summary>
