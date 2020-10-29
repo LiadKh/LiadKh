@@ -14,7 +14,7 @@ Hint
 </summary>
  <p>
    
-   Did you try to encode this?
+   Did you try to decode this?
 </p>
 </details>
 
