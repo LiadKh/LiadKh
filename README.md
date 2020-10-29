@@ -1,13 +1,8 @@
 ![Hey there, I'm Liad. I'm Software Engineer, looking for day-to-day challenges. Thanks for visit me profile.](https://github.com/LiadKh/LiadKh/raw/master/bio.gif)
 
+[![Codewars](https://www.codewars.com/users/TGlhZEto/badges/large)](https://www.codewars.com/users/TGlhZEto)
 
-[Codewars](https://www.codewars.com/users/TGlhZEto)
-
-![Codewars-Badge](https://www.codewars.com/users/TGlhZEto/badges/large)
-
-[Hack The Box](https://app.hackthebox.eu/profile/424637) 
-
-![HTB-Badge](https://www.hackthebox.eu/badge/image/424637)
+[![Hack The Box (HTB)](https://www.hackthebox.eu/badge/image/424637)](https://app.hackthebox.eu/profile/424637)
 
 I have a little challange for you:
 
@@ -19,7 +14,7 @@ Hint
 </summary>
  <p>
    
-   You tried to encode this?
+   Did you try to encode this?
 </p>
 </details>
 
